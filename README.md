@@ -1,2 +1,2 @@
-# coinmarketbot
-Coin , terfi sistemli yetki artım botu Patavatsiz ve bana aittir
+# coin-bot
+Yetki yükseltmeli coni bot discordu bırakan yakın ve saygı duyduğum bir arkadaşım vermişti
